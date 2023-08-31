@@ -1,4 +1,4 @@
-
+"""
 Hand Written Digit Prediction- Classification analysis
 
 the digit dataset consist of 8*8  pixel images of digits. the images attribute of the dataset stores 8x8 arrays of grayscale values for each image. we willuse these array to visualize the first 4 images. the target attribute of the dataset stores the digit each image represents
